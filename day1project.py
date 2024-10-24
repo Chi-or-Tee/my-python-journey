@@ -1,0 +1,5 @@
+input("Are you ready to get an awesome band name?\n")
+print("Great!")
+city = input("What's the name of the city you grew up in?\n")
+pet = input("What's the name of your pet?\n")
+print("Your brand name could be " + city + " " + pet + "!")
